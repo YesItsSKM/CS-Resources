@@ -1,2 +1,2 @@
 # CS-Resources
-Computer Science cooncepts and fundamentals.
+Computer Science concepts and fundamentals.
